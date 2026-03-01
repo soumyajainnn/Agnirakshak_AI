@@ -3,4 +3,6 @@ pandas
 joblib
 xgboost
 scikit-learn
+requests
 python-dotenv
+plotly
