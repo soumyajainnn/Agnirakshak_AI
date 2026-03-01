@@ -7,3 +7,4 @@ plotly
 matplotlib
 seaborn
 python-dotenv
+xgboost
