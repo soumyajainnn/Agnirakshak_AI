@@ -1,8 +1,9 @@
 streamlit
 pandas
+numpy
 joblib
-xgboost
-scikit-learn
 requests
-python-dotenv
 plotly
+matplotlib
+seaborn
+python-dotenv
